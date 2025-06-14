@@ -71,13 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyasinghrawta&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyasinghrawta&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: lakshyasinghrawat0@gmail.com  
