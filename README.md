@@ -80,8 +80,9 @@
 
 ## 📫 Let's Connect
 
-- 📧 Email: lakshyasinghrawta0@gmail.com  
-- 💼 [LinkedIn]([https://linkedin.com/in/lakshyasinghrawta](https://www.linkedin.com/in/lakshya-singh-rawat-818503228/))
+- 📧 Email: lakshyasinghrawat0@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-singh-rawat-818503228/)  
+- 🌐 Portfolio (Coming Soon)
 
 ---
 
