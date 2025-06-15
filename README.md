@@ -1,4 +1,4 @@
-![Lakshya Singh Rawta Banner](https://github.com/Lakshyasinghrawat12/Lakshyasinghrawat12/blob/main/github-header-image%20(2).png)
+![Lakshya Singh Rawta Banner](https://github.com/Lakshyasinghrawat12/Lakshyasinghrawat12/blob/main/github-header-image%20(1).png)
 
 
 # 👋 Hi, I'm Lakshya Singh Rawat
