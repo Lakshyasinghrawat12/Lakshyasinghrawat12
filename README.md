@@ -57,16 +57,16 @@
 
 ## 📂 Featured Projects
 
-### 🔍 [DocumentQA]((https://github.com/Lakshyasinghrawat12/DocumentQA-lakshya-rawat-document-qa-model))
+### 🔍 [DocumentQA](https://github.com/Lakshyasinghrawat12/DocumentQA-lakshya-rawat-document-qa-model)
 > A Document Question Answering model built using LLaMA with context-aware OCR extraction and rule-based validation.
 
-### 🖼️ [Image Text Detection & Orientation Correction]((https://github.com/Lakshyasinghrawat12/Image-Text-detection-and-orientation-correction-project))
+### 🖼️ [Image Text Detection & Orientation Correction](https://github.com/Lakshyasinghrawat12/Image-Text-detection-and-orientation-correction-project)
 > An end-to-end pipeline for detecting text in images, correcting orientation, and preparing data for structured information extraction.
 
-### 📄 [PDF to Image Conversion Web App]((https://github.com/Lakshyasinghrawat12/PDF-to-Image-Conversion-Web-Application))
+### 📄 [PDF to Image Conversion Web App](https://github.com/Lakshyasinghrawat12/PDF-to-Image-Conversion-Web-Application)
 > Web application to convert PDFs into high-resolution images with user-upload and drag-and-drop support.
 
-### 📝 [Blog Post API]((https://github.com/Lakshyasinghrawat12/Blog-post-API))
+### 📝 [Blog Post API](https://github.com/Lakshyasinghrawat12/Blog-post-API)
 > A FastAPI backend with JWT authentication, MongoDB, and CRUD operations for blog content creation and interaction.
 
 ---
