@@ -4,8 +4,7 @@
 # 👋 Hi, I'm Lakshya Singh Rawat
 
 🚀 A passionate Full Stack Developer, Data Scientist & Automation Enthusiast  
-🎓 Final-year Computer Science Student @ BBDU  
-💼 Currently Interning at Ardem Data Services Pvt. Ltd.  
+💼 Currently Working at Ardem Data Services Pvt. Ltd.  
 🌐 Building impactful solutions with Python, FastAPI, MongoDB, Machine Learning, and more
 
 ---
