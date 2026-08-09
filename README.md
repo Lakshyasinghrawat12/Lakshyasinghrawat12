@@ -78,7 +78,7 @@
 
 - 📧 Email: lakshyasinghrawat0@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-singh-rawat-818503228/)  
-- 🌐 Portfolio (Coming Soon)
+- 🌐 [Portfolio](https://portfolio.lakshyasinghrawat0.workers.dev/)
 
 ---
 
